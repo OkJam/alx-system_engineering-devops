@@ -1,0 +1,4 @@
+#!/bin/bash\
+ntouch school.mgc > school.mgc
+
+ntouch school.mgc
