@@ -1,2 +1,3 @@
-#!/bin/bash\
--[p name = SCHOOL] -c
+#!/bin/bash
+0 string SCHOOL School data
+!:mime School data
